@@ -103,8 +103,8 @@
   var EARMAP={
     outer:{name:"Outer ear",structures:"Pinna (auricle) and ear canal",fn:"Collects and funnels sound toward the eardrum (conductive delivery).",path:"Sound enters here first."},
     middle:{name:"Middle ear",structures:"Tympanic membrane, ossicles (malleus, incus, stapes), Eustachian tube",fn:"Air-filled space that passes vibration from the eardrum to the oval window (conductive delivery).",path:"Vibration is handed inward."},
-    inner:{name:"Inner ear",structures:"Cochlea, basilar membrane, organ of Corti and hair cells, vestibular system",fn:"Hair cells perform transduction — converting motion into neural signals (sensorineural).",path:"Mechanical motion becomes a neural signal."},
-    central:{name:"Central auditory system",structures:"Auditory nerve (CN VIII), brainstem, auditory cortex",fn:"Multistage, substantially bilateral processing leading to perception.",path:"Signals are processed and perceived."}
+    inner:{name:"Inner ear",structures:"Cochlea, basilar membrane, organ of Corti and hair cells, auditory nerve (CN VIII), and the vestibular system",fn:"Hair cells perform transduction — converting motion into neural signals — and the auditory nerve (CN VIII) carries them onward (the sensorineural level).",path:"Mechanical motion becomes a neural signal that travels toward the brain."},
+    central:{name:"Central auditory system",structures:"Brainstem pathways and auditory cortex",fn:"Multistage, substantially bilateral processing leading to perception; the central system begins at the brainstem.",path:"Signals are processed and perceived."}
   };
   function initEarMap(){
     var info=$("#earmap-info"); if(!info) return;
