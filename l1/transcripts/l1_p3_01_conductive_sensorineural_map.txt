@@ -1,0 +1,9 @@
+Before we name a single structure, let's get a functional roadmap in your head — because the anatomy is much easier once you know what each part is for. This is a map of jobs, not a list of hearing-loss diagnoses.
+
+There are three functional levels. The first is conductive: delivering sound inward. That's the work of the outer ear and the middle ear — the part that catches sound, and the eardrum and tiny bones that pass the vibration along. Nothing has become a nerve signal yet; it's all still mechanical motion.
+
+The second level is sensorineural. In the cochlea, hair cells perform transduction — they convert mechanical motion into neural signals. The auditory nerve then carries that resulting neural information onward. It doesn't do the converting itself; the hair cells do. Transduction is the heart of hearing, and we'll spend real time on it.
+
+The third level is central: the brainstem and the cortex, where the brain processes those signals into what we actually perceive.
+
+So as we walk from the outside in, keep sorting each part by its job. Conductive means outer- and middle-ear delivery. Sensorineural means cochlear and auditory-nerve function. Central means brainstem and cortical processing. Hold those three levels, and the rest of Part 3 falls into place.

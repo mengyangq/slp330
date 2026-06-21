@@ -1,0 +1,7 @@
+Let's separate two ideas that are easy to blur: what a sound wave physically does, and what we experience when we hear it. Try the waveform explorer beside me as you listen.
+
+The first control changes frequency — how many times the wave cycles each second. Frequency is a physical property, and we measure it in hertz. It's strongly related to the pitch we hear: higher frequency, higher pitch. But frequency and pitch are not the same thing. One is out in the world; the other is your perception.
+
+The second control changes the wave's amplitude — here, that's the relative size of the pressure changes, shown in arbitrary units. Notice you can make the wave taller without changing how fast it cycles. When we talk about how intense a sound actually is, we describe its level, and level is expressed in decibels relative to a stated reference. Greater level strongly influences how loud a sound seems — but, again, physical level and perceived loudness are related, not identical. Two sounds at the same level can seem different depending on their frequency and the listener.
+
+So as you move the sliders, hold one idea firmly: frequency and amplitude are physical and independent; pitch and loudness are what your brain makes of them.

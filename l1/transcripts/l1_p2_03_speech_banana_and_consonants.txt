@@ -1,0 +1,5 @@
+You've probably seen the "speech banana" — that banana-shaped region drawn across an audiogram. Think of it as a teaching schematic: a rough map of where many speech sounds tend to fall by frequency and level. It is not a precise measurement, and no single sound sits at one exact point.
+
+Here's why it matters for us. Vowels generally carry more acoustic energy and are often easier to detect. Many word distinctions, however, depend on lower-intensity consonant cues. Some fricatives, such as the first sounds in "see" and "she," contain substantial high-frequency energy. Others, such as the first sounds in "fee" and "think," are relatively weak and easy to miss. A listener may clearly detect that someone is talking yet confuse words such as "sat," "fat," and "that" because the initial consonant cues are not equally audible. That one idea explains a great deal of real-world communication difficulty.
+
+One caution: any sound you play through a laptop or phone is a demonstration, not a hearing test. Consumer speakers and headphones aren't calibrated, so never use them to judge anyone's hearing. We're building intuition here, not measuring thresholds.

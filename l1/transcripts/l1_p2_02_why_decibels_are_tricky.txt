@@ -1,0 +1,5 @@
+Decibels trip up almost everyone at first, so let's go slowly. The decibel scale is logarithmic. That means equal steps on the scale are not equal jumps in physical energy.
+
+Here's the rule worth remembering: an increase of ten decibels corresponds to about a tenfold increase in sound intensity, when we use the same reference and measure. Ten decibels up is ten times the intensity. Twenty decibels up is ten times ten — a hundredfold. Thirty decibels up is a thousandfold. The differences pile up fast. Compare two sound levels that differ by sixty decibels, using the same type of measurement and the same reference. That difference corresponds to about one million times the physical intensity — not billions, but one million.
+
+But here's the part to hold onto: a tenfold increase in intensity does not mean ten times as loud. Under typical conditions, a ten-decibel increase is often perceived as about twice as loud, although the exact experience varies with frequency, duration, context, and the listener. Decibels let us express enormous physical ratios with manageable numbers. They relate to loudness, but they are not a direct loudness scale.

@@ -1,0 +1,7 @@
+This is the moment sound becomes a signal your brain can use, so let's walk it step by step and get it right.
+
+Start at the oval window, the little door into the inner ear. When the stapes pushes on it, it sets the fluid inside the cochlea moving. That fluid motion creates a traveling wave that ripples along the basilar membrane, a flexible band running the length of the coiled cochlea. Riding on top of that membrane is the organ of Corti, and sitting within it are the hair cells.
+
+As the wave travels, movement within the organ of Corti deflects the stereocilia — the tiny hair-like bundles on top of these cells. That deflection is the key. It opens mechanically-gated channels, which changes the electrical charge inside the hair cell, its receptor potential. The hair cell then releases neurotransmitter, which changes activity in auditory-nerve fibers. And that is transduction: mechanical motion converted into neural signaling.
+
+Notice what does the converting. It's not the eardrum, and it's not the little bones — those are still just delivering vibration. The actual conversion happens at the hair cells in the cochlea. This distinction helps us ask whether a disruption affects outer- or middle-ear delivery, cochlear transduction, or auditory-neural transmission.
