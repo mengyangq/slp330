@@ -1,0 +1,9 @@
+SRT and WRS are easy to mix up because both use speech, but they answer different questions.
+
+The Speech Reception Threshold, or SRT, asks: how soft can familiar speech be and still be recognized? The materials are usually spondees, words like baseball, hotdog, or sidewalk. They are familiar, two-syllable words with roughly equal stress. The level is varied until the person can repeat about half of them correctly. So SRT is a threshold measure.
+
+The Word Recognition Score, or WRS, asks a different question: when speech is loud enough to be heard comfortably, how accurately can the person recognize words? The materials are usually monosyllabic words, and the score is reported as a percentage correct.
+
+Here is the contrast. SRT is about the level where familiar speech becomes recognizable. WRS is about clarity when audibility is not supposed to be the main barrier. That is why WRS can be so clinically important. A person may hear that speech is present, and may even have speech presented loudly enough, but still repeat only some of the words correctly.
+
+For SLPs, this matters because word recognition is closer to everyday communication than pure-tone thresholds alone. It helps you understand why a client may detect speech but still misunderstand messages.

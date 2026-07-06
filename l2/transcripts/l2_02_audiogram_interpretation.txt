@@ -1,0 +1,11 @@
+When you first look at an audiogram, do not try to understand everything at once. Use a routine. I like to think of it as three passes through the same graph.
+
+First pass: degree. Look at the air-conduction thresholds and ask, how much hearing loss is there in each ear? Are the thresholds within normal limits, mild, moderate, severe, or somewhere in between? Do not list every frequency unless you need to. Summarize regions. For example: normal through one thousand hertz, then moderate in the high frequencies.
+
+Second pass: type. Now compare air conduction and bone conduction at the same frequencies. If air and bone are both elevated and close together, think sensorineural pattern. If bone conduction is normal but air conduction is poorer, think conductive pattern. If bone conduction is elevated and air conduction is even poorer, think mixed pattern.
+
+Third pass: configuration. Ask how the thresholds change across frequency. Flat? Sloping? Rising? Notched? Cookie-bite? This gives the reader a visual picture of the audiogram without needing the graph in front of them.
+
+Then put it together in one clear sentence. Ear, degree, type, and shape. For example: the left ear shows a moderate conductive hearing loss through two thousand hertz, rising to normal hearing in the higher frequencies. Hearing is within normal limits for the right ear.
+
+The point is not to memorize one perfect sentence. The point is to give a clear, accurate mental picture of the graph.

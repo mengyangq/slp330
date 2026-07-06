@@ -1,0 +1,9 @@
+The up-five, down-ten method can look strange until you realize what the audiologist is trying to do. The goal is not to find the first level the person ever hears. The goal is to find the softest level where the person responds reliably.
+
+Start with the basic movement rule. If the patient hears the tone and responds, the next presentation goes down by ten decibels. That makes the tone softer. If the patient does not respond, the next presentation goes up by five decibels. That makes the tone just a little louder. So the test brackets the threshold from both sides.
+
+Imagine that thirty decibels is too soft, fifty is clearly heard, forty is not heard, forty-five is heard, thirty-five is not heard, and forty is heard. The procedure keeps circling around the area where hearing changes from no response to response. We are not looking for a perfect yes-or-no boundary, because human responses vary. We are looking for a level that meets the threshold rule.
+
+That rule is: the lowest level where the person responds to at least half of the ascending presentations, with at least two responses out of at least three trials at that level. If forty decibels is heard reliably, and thirty-five decibels is not, then forty decibels is the threshold.
+
+The clinical idea is simple: move down after a response, move up after no response, and use repeated evidence to avoid guessing from one lucky or unlucky trial.

@@ -1,0 +1,9 @@
+Masking can feel like the most intimidating topic in beginner audiology, but the basic purpose is simple: we are trying to keep the ears separate.
+
+Suppose the audiologist is testing the right ear. The tone is presented to the right side, but if it is loud enough, vibration can travel through the skull and be detected by the left cochlea. If the left ear is better, the patient may respond even though the right ear did not truly hear the tone. That would give us a false picture of right-ear hearing.
+
+Masking solves that problem by putting noise into the non-test ear. The noise keeps the non-test ear busy, so the response is more likely to come from the test ear.
+
+The amount of cross-over depends partly on the transducer. Bone conduction is treated as having zero interaural attenuation, meaning both cochleae can be stimulated. Insert earphones have more separation between ears than supra-aural earphones, so masking is needed less often with inserts.
+
+For this lesson, do not worry about mastering the full plateau method. Remember the core question: could the non-test ear be responding? If yes, masking may be needed to make the threshold ear-specific.

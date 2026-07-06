@@ -1,0 +1,11 @@
+The easiest way to understand type of hearing loss is to remember what air conduction and bone conduction include.
+
+Air conduction sends sound through the whole system: outer ear, middle ear, inner ear, auditory nerve, and central pathway. Bone conduction bypasses the outer and middle ear and stimulates the cochleae through skull vibration. That difference is powerful, because it lets us compare the delivery system with the sensorineural system.
+
+If air and bone thresholds are both elevated and close together, the problem is not just a blocked outer or middle ear. Sound is affected even when we bypass that conductive pathway. That pattern is sensorineural.
+
+If bone conduction is normal but air conduction is poorer, the cochlea is responding reasonably well when we bypass the outer and middle ear. The problem is the delivery of sound to the cochlea. That pattern is conductive.
+
+If bone conduction is elevated, but air conduction is even poorer, both things are happening. There is sensorineural involvement because bone is not normal, and there is a conductive component because air is worse than bone. That pattern is mixed.
+
+The difference between air and bone at the same frequency is the air–bone gap. Small gaps can happen because of testing variability. In this lesson, think of gaps greater than ten decibels as clinically meaningful. The key is always the same: compare air and bone at the same frequency before you name the type.

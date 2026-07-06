@@ -1,0 +1,9 @@
+Many people with hearing loss say some version of this: I do okay one-on-one, but I cannot follow conversation in noise. That is exactly why speech-in-noise testing matters.
+
+The key idea is signal-to-noise ratio, or SNR. The signal is the speech you want the listener to understand. The noise is the background sound competing with it. To find the SNR, subtract the noise level from the speech level.
+
+If speech is at fifty decibels and noise is at forty, the SNR is plus ten. Speech is ten decibels louder than the noise. That is easier than zero SNR, where speech and noise are at the same level. It is much easier than negative ten, where the noise is louder than the speech.
+
+But there is more than one kind of noise. Steady white noise is different from speech-shaped noise. Babble is different again. A meaningful competing talker may be especially difficult because the brain has to separate one speech stream from another.
+
+The clinical point is this: a quiet-booth score can look much better than real life. Speech-in-noise testing helps explain communication complaints that the audiogram alone may not capture. For SLPs, SNR is also a reminder that changing the environment can be a powerful communication support.
