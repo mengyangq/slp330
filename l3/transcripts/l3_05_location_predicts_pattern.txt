@@ -1,0 +1,11 @@
+The location of a problem gives us a useful prediction about the hearing pattern, but it does not give us a complete diagnosis.
+
+Start with the outer and middle ear. Their main job is to deliver sound to the cochlea. If cerumen blocks the canal, fluid limits eardrum movement, or the stapes cannot move freely, less acoustic energy reaches the inner ear. When hearing is affected, that often creates a conductive pattern. Air-conduction thresholds are poorer because air-conducted sound has to pass through the affected structures. Bone conduction can stimulate the cochlea more directly.
+
+Now move into the cochlea. Damage to sensory hair cells affects how sound is converted and coded. That usually creates a sensorineural pattern, with air and bone thresholds both affected and no meaningful air–bone gap.
+
+Farther along the pathway, a neural problem can disrupt the timing or transmission of the signal. A person’s speech understanding may then be much poorer than pure-tone thresholds alone would suggest.
+
+But real cases are not always tidy. A person can have both conductive and sensorineural components. Some visible ear differences do not change hearing at all. And one symptom, such as fullness or trouble in noise, can have several causes.
+
+Use location to form a hypothesis. Then use the case history, otoscopy, audiogram, speech results, tympanometry, and physiologic tests to check whether the evidence agrees.

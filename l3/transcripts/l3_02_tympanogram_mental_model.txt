@@ -1,0 +1,9 @@
+A tympanogram may look like a hearing graph, but it answers a different question. It shows how the eardrum and middle-ear system respond as ear-canal pressure changes—not the softest sounds a person hears.
+
+Imagine testing a spring by changing the pressure around it. The tympanogram’s peak marks where the middle-ear system has its greatest measured mobility, or admittance.
+
+A Type A tracing has a clear peak near atmospheric pressure. That is consistent with typical middle-ear pressure and movement. A Type C tracing still has a peak, but the peak is shifted into negative pressure. That suggests negative pressure in the middle ear and may occur when the Eustachian tube is not equalizing pressure well.
+
+A Type B tracing is flat, so there is no clear peak. But flat does not have just one meaning. Now you must check ear-canal volume. A flat tracing with an expected volume may be consistent with middle-ear fluid. A flat tracing with a large volume may fit an open PE tube or a perforated eardrum. A very small volume may mean the probe is blocked or the canal is obstructed.
+
+The tracing gives clues. Otoscopy, symptoms, age, probe fit, and other tests turn them into a clinical interpretation. Very young infants also require age-appropriate high-frequency probe tones and norms; adult-style expectations do not simply carry over.

@@ -1,0 +1,11 @@
+OAE and AABR can both screen hearing without asking a baby to raise a hand or press a button. But they listen at different checkpoints in the auditory system.
+
+An OAE listens for a very faint sound produced mainly by functioning outer hair cells in the cochlea. A probe plays a sound and then records the cochlear response in the ear canal. For that recording to work, the sound must travel inward through the outer and middle ear, and the emission must travel back out. That is why ear-canal debris or middle-ear fluid can make an OAE absent even when the cochlea is not the main problem.
+
+AABR looks farther along the pathway. Earphones present sound, surface electrodes record tiny voltage changes, and the computer checks whether a synchronized neural response is present through the auditory nerve and brainstem.
+
+Neither test measures everyday speech understanding, and neither test provides a full diagnosis by itself. Their value is that they sample different parts of the system.
+
+For example, present OAEs with an absent or very abnormal ABR can raise concern about neural transmission or synchrony. That pattern can occur in auditory neuropathy spectrum disorder, but it still requires a complete diagnostic evaluation.
+
+Think of OAE and AABR as two checkpoints. Comparing them helps show where the pathway deserves a closer look.
