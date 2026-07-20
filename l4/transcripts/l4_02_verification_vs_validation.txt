@@ -1,0 +1,9 @@
+A hearing aid can be programmed according to an audiogram and still need careful checking. That is why audiologists use both verification and validation.
+
+Verification asks, “Is the hearing aid producing the intended sound at the ear?” One important method is real-ear measurement. A thin probe tube measures amplified sound near the eardrum while speech-like signals are presented. The audiologist compares the response with evidence-based targets for soft, average, and loud inputs and checks that the maximum output is not excessive. For infants and young children, ear-specific measurements can also help account for the small size of the ear canal.
+
+Validation asks a different question: “Is this fitting helping the person in everyday life?” The audiologist may use interviews, questionnaires, functional goals, speech-understanding tasks, or reports from the listener and communication partners. Validation may reveal that speech is audible in the clinic but meetings, classrooms, or family conversations are still difficult.
+
+Neither step replaces the other. A person might report improvement even when important speech sounds remain below target. Another person might have an accurately verified fitting but still need different features, communication strategies, or environmental support.
+
+Verification checks the device’s output. Validation checks the person’s experience and outcomes. Together, they guide follow-up and keep the fitting connected to real communication needs.

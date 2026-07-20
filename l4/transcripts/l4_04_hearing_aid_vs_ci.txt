@@ -1,0 +1,11 @@
+Hearing aids and cochlear implants both begin by picking up sound, but they deliver information through different paths.
+
+In a hearing aid, a microphone converts sound into an electrical signal. The processor shapes and amplifies that signal, and a receiver changes it back into acoustic sound. The sound travels through the ear canal and middle ear to the cochlea. The hearing aid therefore works with the person’s remaining cochlear function. It can make selected parts of sound more audible, but it cannot directly replace damaged sensory hair cells.
+
+A cochlear implant takes a different route. An external microphone and sound processor analyze the sound. A transmitting coil sends coded information across the skin to the implanted receiver and stimulator. An electrode array inside the cochlea then delivers patterns of electrical stimulation to surviving auditory-nerve fibers.
+
+This bypasses much of the damaged hair-cell transduction process, but it does not bypass the auditory nerve or brain. It also does not reproduce acoustic hearing exactly. The brain must learn how to interpret the new electrical pattern.
+
+A cochlear implant involves surgery, programming, follow-up, and rehabilitation. Candidacy is based on a complete evaluation, including hearing-aid benefit and communication needs—not on a single audiogram number.
+
+Neither device cures hearing loss. Each is one possible tool for improving access, and the most appropriate choice depends on the individual’s hearing, goals, preferences, and clinical findings.
